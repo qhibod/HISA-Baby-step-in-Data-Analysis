@@ -3,7 +3,9 @@
 ----
 
 # Project Objective: Problem Statement
-
+1. The countries Profit
+2. The Total Profit
+3. Unit sold by Product by country
 
 
 
@@ -23,3 +25,4 @@
 
 ----
 # Findings and Recommendations
+I discovered that France provides the higest Profit and Mexico the least 
